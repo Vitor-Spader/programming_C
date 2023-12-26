@@ -1,1 +1,1 @@
-Projeto buscando criar um progtama eficiente na busca por números primos
+Projeto buscando criar um programa eficiente na busca por números primos
